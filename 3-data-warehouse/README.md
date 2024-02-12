@@ -1,6 +1,5 @@
 # Week 3
 
-
 ## Homework
 
 ### Setting up env variable
@@ -75,14 +74,14 @@ OPTIONS (
 );
 ```
 
-### Create a table from Green Taxi Trip Records Data for 2022:
+### Create a materialized table from Green Taxi Trip Records Data for 2022:
 
 ```sql
 CREATE OR REPLACE TABLE `de-zoomcamp-412513.nytaxi.green_tripdata`
 AS SELECT * FROM `de-zoomcamp-412513.nytaxi.external_green_tripdata`;
 ```
 
-### Create a partitioned 
+### Create a partitioned table from Green Taxi Trip Records Data for 2022:
 
 ```sql
 CREATE OR REPLACE TABLE `de-zoomcamp-412513.nytaxi.green_tripdata_partitioned`
