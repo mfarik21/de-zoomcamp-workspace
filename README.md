@@ -1,6 +1,6 @@
 # Data Engineering Zoomcamp 2024 Workspace
 
-This is the repository for DataTalksClub's Data Engineering Zoomcamp practice space and homework submition.
+This is the repository for DataTalksClub's Data Engineering Zoomcamp practice space and homework submition. Visit this [link](https://dezoomcamp.streamlit.app/) for more information about the course.
 
 [Module 1: Docker and Terraform](https://github.com/mfarik21/de-zoomcamp-workspace/tree/main/1-docker-terraform)
 
