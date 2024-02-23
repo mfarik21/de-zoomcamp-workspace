@@ -1,0 +1,6 @@
+venv
+dbt-env
+data
+creds
+.dlt
+logs
